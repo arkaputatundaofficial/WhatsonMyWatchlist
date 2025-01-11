@@ -1,0 +1,10 @@
+summary: A short description of your app
+description: |
+  A detailed description of your app.
+repo: https://github.com/arkaputatundaofficial/WhatsonMyWatchlist
+build:
+  - versionName: 1.0.0
+    versionCode: 1
+    commit: v1.0.0
+    gradle:
+      - build
